@@ -1,5 +1,9 @@
 # certificates
 
+## CS50's Introduction to Programming with Python
+
+![cs50 p certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/CS50%20P.png)
+
 ## CS50's Introduction to Databases with SQL
 
 ![cs50 sql certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/CS50%20SQL.png)
