@@ -2,18 +2,18 @@
 
 ## CS50's Introduction to Programming with Python
 
-![cs50 p certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/CS50%20P.png)
+![cs50 p certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/cs50p.png)
 
 ## CS50's Introduction to Databases with SQL
 
-![cs50 sql certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/CS50%20SQL.png)
+![cs50 sql certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/cs50sql.png)
 
 
 ## Elements of AI — Introduction to AI
 
-![introduction to ai certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/Introduction%20to%20AI.png)
+![introduction to ai certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/introduction-to-ai.png)
 
 
 ## CS50x Puzzle Day 2025
 
-![cs50x puzzle day 2025 certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/CS50x%20Puzzle%20Day%202025.png)
+![cs50x puzzle day 2025 certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/cs50x-puzzle-day-2025.png)
