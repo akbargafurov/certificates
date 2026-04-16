@@ -17,3 +17,7 @@
 ## CS50x Puzzle Day 2025
 
 ![cs50x puzzle day 2025 certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/cs50x-puzzle-day-2025.png)
+
+## CS50x Puzzle Day 2026
+
+![cs50x puzzle day 2026 certificate](https://github.com/akbargafurov/certificates/blob/main/achievements/cs50x-puzzle-day-2026.png)
